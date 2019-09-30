@@ -5,14 +5,13 @@ The project was based on Machine Learning applications in astronomy.
 The project intended to accuately predict photometric redshifts and comapre them with the spectroscopic counterpart.
 A more datailed work on the topic was done by Dr Wadadekar and can be found at http://adsabs.harvard.edu/abs/2005PASP..117...79W
 The photometric data from SDSS DR 8-10 was collecetd and popular machine learning methods were employed such as
-1.Linear regression
-2.SVR(SUpport vector regresion)
-3.ANNs
-4.Tree based methods(using the "tree"package in R)
-5.Random Forests(performed the best giving the lowest RMSE)
+* Linear regression
+* SVR(SUpport vector regresion)
+* ANNs
+* Tree based methods(using the "tree"package in R)
+* Random Forests(performed the best giving the lowest RMSE)
 
 All the coding was done in R and the corresponding RMSE was also compiled.
 More future work is intended on this topic,I would like to use deeper surveys like Deep2 and try estimating the redshifts.
 
 
-That's it folks!Enjoy!
