@@ -5,9 +5,9 @@ The project intended to accuately predict photometric redshifts and comapre them
 A more datailed work on the topic was done by Dr Wadadekar and can be found [here](http://adsabs.harvard.edu/abs/2005PASP..117...79W)
 The photometric data from SDSS DR 8-10 was collecetd and popular machine learning methods were employed such as
 * Linear regression
-* SVR(SUpport vector regresion)
-* ANNs
-* Tree based methods(using the "tree"package in R)
+* SVR(Support vector regresion)
+* Artificial neural networks
+* Tree based methods(using the "tree" package in R)
 * Random Forests(performed the best giving the lowest RMSE)
 
 All the coding was done in R and the corresponding RMSE was also compiled.
